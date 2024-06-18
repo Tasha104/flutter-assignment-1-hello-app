@@ -1,1 +1,1 @@
-# flutter-assignment-1-hello-app
+# flutter assignment 1: hello app
